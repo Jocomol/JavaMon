@@ -1,0 +1,23 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root{
+	
+    -fx-background-image: url("file:images/background_menu.png");  
+    -fx-background-position: center;
+    /*-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); */
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+#volume_button{
+	
+	-fx-min-height: 64;
+	-fx-min-width: 64;
+	-fx-background-image: url("file:images/volume_on.png");
+	-fx-background-radius: 45;
+	
+}
+
+
+
+

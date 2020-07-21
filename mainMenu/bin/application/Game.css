@@ -1,0 +1,23 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root{
+	
+    -fx-background-image: url("file:images/game_background.png");  
+    
+}
+
+
+#switchJavamon{
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 25px;
+}
+
+#attackJavamon{
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 25px;
+}
+
+#run{
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 25px;
+}
